@@ -1,0 +1,181 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+h1{
+    font-size:50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.menu{
+    float:left;
+    
+    
+}
+ul.menuItem{
+    list-style: none;
+    margin-left:900px;
+
+}
+ul.menuItem li{
+    float:left;
+}
+ul.menuItem li a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    text-transform:uppercase;
+    font-size:15px;
+    display:block;
+    padding:30px 22px;
+    color:#0e0e0e;
+    font-weight:500px;
+
+}
+.color-name{
+    color:chocolate;
+}
+.sideWidth{
+    width:43%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+    display:block;
+}
+.link-btn{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, red,blue);
+    padding:10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight:700;
+    
+}
+p{
+    width: 415px;
+    padding-bottom: 15px;
+    padding-left: 12px;
+}
+
+.sideWidth img{
+    width: 85%;
+    padding-top:0px;
+}
+.menuItem li a:hover{
+    color:blueviolet;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.nameColor{
+    color:purple;
+}
+.p-Color{
+    color:lightcoral;
+}
+.work-project{
+    width:1425px;
+    height: 525px;
+    background-color:lightcyan;
+}
+.GroupImageTextBtn img {
+    width: 1000px;
+    padding: 100px;
+    margin: 100px;
+}
+.latest-w-p {
+    text-align: center;
+    padding-top: 40px;
+}
+.hardRockMusic img {
+    width: 413px;
+    width: 425px;
+    height: 286px;
+    margin: 5px;
+    padding: 5px;
+}
+.W-P-Images {
+    padding-top: 50px;
+    padding-left: 10px;
+    margin-left: 15px;
+    width: 100%;
+}
+.hardRockMusic{
+    display: inline-block;
+    width: 435px;
+    padding-right: 0px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 12px;
+    height: 80%;
+}
+
+.creativeAgency img {
+    width: 415px;
+    height: 308px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.gymArea img {
+    width: 415px;
+    height: 295px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.gymArea {
+    display: inline-block;
+    width: 435px;
+    padding-right: 0px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 12px;
+    height: 80%;
+    margin-right: 10px;
+}
+
+.creativeAgency {
+    display: inline-block;
+    width: 435px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 12px;
+    height: 80%;
+    margin-right: 10px;
+}
+
+.gymArea h3 {
+    padding: 15px;
+}
+
+.hardRockMusic h3 {
+    padding: 10px;
+}
+
+.creativeAgency h3 {
+    padding: 10px;
+}
+.chat-btn{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightblue, lightsalmon);
+    padding:10px 20px;
+    border-radius: 5px;
+    color:black;
+    font-weight:700;
+
+}
+.GroupImageTextBtn{
+    position:relative;
+    text-align: center;
+    color:white;
+}
+.GroupText{
+    position:absolute;
+    top:280px;
+    left:320px;
+    font-size:50px;
+}
+.GroupLinkBtn{
+    position:absolute;
+    top:305px;
+    left:975px;
+}
