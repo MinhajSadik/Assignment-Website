@@ -81,8 +81,8 @@ section{
 }
 .GroupImageTextBtn img {
     width: 1000px;
-    padding: 100px;
-    margin: 100px;
+    padding: 60px;
+    margin: 60px;
 }
 .latest-w-p {
     text-align: center;
@@ -170,12 +170,12 @@ section{
 }
 .GroupText{
     position:absolute;
-    top:280px;
-    left:320px;
+    top:200px;
+    left:300px;
     font-size:50px;
 }
 .GroupLinkBtn{
     position:absolute;
-    top:305px;
-    left:975px;
+    top:235px;
+    left:985px;
 }
